@@ -1,0 +1,15 @@
+/.venv
+/10Crypto_data.py
+/Alpha_beta_omega.py
+/crypto_analysis.html
+/main.py
+/monthly_crypto_metrics.csv
+/rolling_crypto_metrics.csv
+/rotation_matrix.py
+/sample.py
+/test.py
+/testing.css
+/top_10_crypto_data.csv
+/top_10_crypto_data.html
+/top_10_crypto_metrics.html
+/venv
